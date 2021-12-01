@@ -1,5 +1,13 @@
 # React COVID Tracker
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/ankush26/react-covid19-tracker/master/screenshort/1.png)
+![App Screenshot](https://raw.githubusercontent.com/ankush26/react-covid19-tracker/master/screenshort/2.png)
+![App Screenshot](https://raw.githubusercontent.com/ankush26/react-covid19-tracker/master/screenshort/3.png)
+![App Screenshot](https://raw.githubusercontent.com/ankush26/react-covid19-tracker/master/screenshort/4.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
